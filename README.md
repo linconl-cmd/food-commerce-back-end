@@ -1,3 +1,3 @@
-**Projeto que contém o backend da aplicação Food-commerce**
+#Projeto que contém o backend da aplicação Food-commerce
 
--Contendo o banco de dados do projeto.
+- Contendo o banco de dados do projeto.
